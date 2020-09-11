@@ -1,0 +1,7 @@
+/*Barra do admin no front*/
+img.logo-new-admin-bar {
+    width: 60px !important;
+}
+#wpadminbar {
+    height: 36px;
+}
